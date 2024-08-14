@@ -7,6 +7,8 @@ Model.pth file is the trained model file used for the future prediction
 Main.py:- This file is the prediction file used to recommend the classes for the given text.
 
 To run the streamlit API:- streamlit run Main.py
+
+
 this will run the API.
 
 
