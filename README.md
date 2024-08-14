@@ -3,7 +3,11 @@
 AI Intern Task - Trademark Class Recommendation System
 
 model_train.ipynb:-This file is the model training file for this project. After running all the cells, download model.pth file.
+
+
 Model.pth file is the trained model file used for the future prediction
+
+
 Main.py:- This file is the prediction file used to recommend the classes for the given text.
 
 To run the streamlit API:- streamlit run Main.py
