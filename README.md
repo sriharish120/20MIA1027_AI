@@ -17,5 +17,6 @@ this will run the API.
 
 
 Output of the Streamlit API:
-![image](https://github.com/user-attachments/assets/82ca6a82-e312-4cbf-9f09-fea7f7dc5afd)
+![image](https://github.com/user-attachments/assets/62f76f88-18a6-495d-ab41-79115626ed08)
+
 Thank YOU!
